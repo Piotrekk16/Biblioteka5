@@ -12,22 +12,19 @@ namespace ConsoleApplication3
 
         public Czasopismo() { }
 
-        public Czasopismo(int numer, string tytul, string wydawnictwo, int rokWydania, int id)
+        public Czasopismo(int numer, string tytuł, string wydawnictwo, int rokWydania, int id)
+            : base(tytuł, wydawnictwo, rokWydania, id) //szybciej i krocej z base
         {
             this.numer = numer;
-            this.tytul = tytul;
-            this.wydawnictwo = wydawnictwo;
-            this.rokWydania = rokWydania;
-            this.id = id;
         }
 
-        public override void WypiszInfo()
+        public override void WypiszInfo() 
         {
-            Console.WriteLine("Tytul: ", tytul);
-            Console.WriteLine("Wydawnictwo: ", wydawnictwo);
-            Console.WriteLine("Rok wydania: ", rokWydania);
-            Console.WriteLine("Id: ", id);
-            Console.WriteLine("Numer: ", numer);
+            Console.WriteLine("Tytul: {0}", tytul); //brak odwołania do parametru
+            Console.WriteLine("Wydawnictwo: {0}", wydawnictwo);
+            Console.WriteLine("Rok wydania: {0}", rokWydania);
+            Console.WriteLine("Id: {0}", id);
+            Console.WriteLine("Numer: {0}", numer);
 
         }
     }

@@ -4,3 +4,9 @@ C:\Users\local\Desktop\ANIA\ConsoleApplication8\ConsoleApplication8\bin\Debug\Co
 C:\Users\local\Desktop\ANIA\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
 C:\Users\local\Desktop\ANIA\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
 C:\Users\local\Desktop\ANIA\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Cw7\13\Program-master\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Piotrek\Desktop\Cw7\13\Program-master\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Piotrek\Desktop\Cw7\13\Program-master\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\Piotrek\Desktop\Cw7\13\Program-master\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Piotrek\Desktop\Cw7\13\Program-master\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Piotrek\Desktop\Cw7\13\Program-master\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache

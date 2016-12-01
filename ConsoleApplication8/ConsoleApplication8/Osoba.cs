@@ -13,8 +13,8 @@ namespace ConsoleApplication3
 
         protected internal Osoba()
         {
-            imie = "Brak";
-            nazwisko = "Brak";
+            imie = "Jan"; //jak coś dawać w konstruktrze to konkrety
+            nazwisko = "Kowalski";
         }
 
         protected internal Osoba(string imie, string nazwisko)

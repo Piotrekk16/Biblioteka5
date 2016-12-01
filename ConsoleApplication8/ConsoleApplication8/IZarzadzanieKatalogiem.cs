@@ -6,22 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication3
 {
-    class IZarzadzanieKatalogiem : Katalog
+    interface IZarzadzanieKatalogiem // w tym przykładzie logicznie jest podpiąc interfejs do klasy a nie na odwrót
     {
 
-        public void WyszukajPoTytule()
-        {
-
-        }
-        public void WyszukajPoId()
-        {
-
-        }
-
-        public void WypiszWszystko()
-        {
-
-        }
+        //tu dodajemy tylko deklarację (bez nawiasów klamrowych), przy dwóch metoda przydałyby się parametry
+        void WyszukajPoTytule(string tytuł);
+        void WyszukajPoId(int id);
+        void WypiszWszystko();
 
     }
 }
